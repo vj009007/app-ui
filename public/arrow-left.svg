@@ -1,0 +1,16 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/Outline/arrow-ios-down">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M6.66709 10C6.66709 9.81004 6.73125 9.62087 6.86042 9.4667L11.0271 4.4667C11.3213 4.11337 11.8471 4.06504 12.2004 4.36004C12.5538 4.6542 12.6013 5.1792 12.3071 5.53337L8.57709 10.0092L12.1729 14.4775C12.4613 14.8359 12.4046 15.3609 12.0463 15.6492C11.6879 15.9375 11.1638 15.8809 10.8746 15.5225L6.85125 10.5225C6.72875 10.37 6.66709 10.185 6.66709 10Z" fill="url(#paint0_linear_895_3173)"/>
+<mask id="mask0_895_3173" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="6" y="4" width="7" height="12">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M6.66709 10C6.66709 9.81004 6.73125 9.62087 6.86042 9.4667L11.0271 4.4667C11.3213 4.11337 11.8471 4.06504 12.2004 4.36004C12.5538 4.6542 12.6013 5.1792 12.3071 5.53337L8.57709 10.0092L12.1729 14.4775C12.4613 14.8359 12.4046 15.3609 12.0463 15.6492C11.6879 15.9375 11.1638 15.8809 10.8746 15.5225L6.85125 10.5225C6.72875 10.37 6.66709 10.185 6.66709 10Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_895_3173)">
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_895_3173" x1="14.6873" y1="3.87512" x2="9.89641" y2="22.2435" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BAFF00"/>
+<stop offset="1" stop-color="#149C6B"/>
+</linearGradient>
+</defs>
+</svg>
