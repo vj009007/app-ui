@@ -56,7 +56,7 @@ const newProject = () => {
     accessibility: false,
     adaptiveHeight: true,
   };
-  const slider = React.useRef(null);
+  const projectSlider = React.useRef(null);
 
   //New Chain
   const [age, setAge] = React.useState("");
@@ -69,7 +69,7 @@ const newProject = () => {
 
   return (
     <>
-      <Slider ref={slider} {...popupSlider}>
+      <Slider ref={projectSlider} {...popupSlider}>
         {/* User Content */}
         <Box>
           <DialogTitle id="add-project">{"Where are your users?"}</DialogTitle>
